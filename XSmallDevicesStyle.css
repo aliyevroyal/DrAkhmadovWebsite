@@ -12,9 +12,4 @@
   .nav-item a {
     font-size: 1.2rem;
   }
-
-  .navbar .UserIcon,
-  .navbar .ShoppingCartIcon {
-    display: none;
-  }
 }
