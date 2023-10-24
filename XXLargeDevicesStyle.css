@@ -1,0 +1,25 @@
+/*  XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .brand,
+  .brand:hover {
+    margin-left: 2.8rem;
+  }
+
+  .nav-item {
+    margin-right: 3.6rem;
+  }
+
+  .nav-item a {
+    font-size: 1.2rem;
+  }
+
+  .navbar .UserIcon {
+    margin-top: 0.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .navbar .ShoppingCartIcon {
+    margin-top: 0.5rem;
+    margin-right: 4.5rem;
+  }
+}
