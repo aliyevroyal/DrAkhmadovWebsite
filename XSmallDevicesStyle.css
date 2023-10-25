@@ -12,4 +12,17 @@
   .nav-item a {
     font-size: 1.2rem;
   }
+
+  .IntroductionPage {
+    width: 100vw;
+  }
+
+  .ServicesPage {
+  }
+
+  .AboutMePage {
+  }
+
+  .ContactPage {
+  }
 }
