@@ -15,9 +15,12 @@
 
   .IntroductionPage {
     width: 100vw;
+    height: 51rem;
   }
 
   .ServicesPage {
+    width: 100vw;
+    height: 51rem;
   }
 
   .AboutMePage {
